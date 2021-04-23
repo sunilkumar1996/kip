@@ -1,0 +1,19 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# Folders
+backups/
+junk/
+output/
+
+# Files
+credentials.py
+/TODO.txt
+
